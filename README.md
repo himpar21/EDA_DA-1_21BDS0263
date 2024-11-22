@@ -90,12 +90,11 @@ The dataset, `HDI.csv`, contains information on Human Development Index metrics 
 
 ---
 
-## Future Enhancements
-- Add more visualization options to the Streamlit app.
-- Incorporate machine learning models for predictive analysis.
-- Extend the app for real-time dataset uploads and processing.
+## Result Screenshots
+![image](https://github.com/user-attachments/assets/e5f8a59a-1e9b-41a4-9125-24ab0d23bcfc)
 
----
+
+
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for new features or bug fixes.
